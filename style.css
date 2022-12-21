@@ -179,7 +179,9 @@ footer ul {
 
 /*Projects section */
 #projects {
+    margin: 0 auto;
     padding: 4rem 1rem;
+    max-width: 1200px;
 }
 
 #projects h2 {
