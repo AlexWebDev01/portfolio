@@ -215,6 +215,11 @@ footer ul {
     font-size: 1rem;
 }
 
+#projects a {
+    display: flex;
+    width: 100%;
+}
+
 #projects img {
     max-width: 100%;
     margin: 2rem 0 4rem 0;
